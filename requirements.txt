@@ -1,0 +1,9 @@
+fastapi[all]
+uvicorn
+python-docx
+pdfkit
+pydantic
+PyPDF2
+python-multipart
+reportlab
+docx2pdf
